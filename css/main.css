@@ -1,0 +1,17 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+header .container .row .logo {
+  background: #dfdfdf;
+}
+
+header .container .row .menu {
+  background: #bebebe;
+}
+
+header .container .row .info {
+  background: #979797;
+}
+/*# sourceMappingURL=main.css.map */
